@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "dashboardHeight": 2080,
+    "dashboardWidth": 1920
+  },
+  "version": 1,
+  "outputs": {
+    "8d0a5fe3-6162-434d-b6b0-9f359060e189": [
+      {
+        "cellId": "ab806f25-e2ec-460b-a7ba-57e3661a6be8",
+        "pos": {
+          "left": 32,
+          "top": 640,
+          "width": 1440,
+          "height": 768
+        }
+      },
+      {
+        "cellId": "ba37e1ab-9958-48ba-8f68-94146f7d3473",
+        "pos": {
+          "left": 768,
+          "top": 256,
+          "width": 704,
+          "height": 384
+        }
+      },
+      {
+        "cellId": "8b4a8692-778f-4029-bb73-2518cd69db47",
+        "pos": {
+          "left": 32,
+          "top": 256,
+          "width": 736,
+          "height": 384
+        }
+      },
+      {
+        "cellId": "d5433a43-1a8a-4536-bac8-6a4bcc2f105d",
+        "pos": {
+          "left": 32,
+          "top": 128,
+          "width": 1440,
+          "height": 128
+        }
+      }
+    ]
+  },
+  "paths": {
+    "Desktop/EDHEC python/Week3/Interactive CPPI and GBM.ipynb": "8d0a5fe3-6162-434d-b6b0-9f359060e189"
+  }
+}
