@@ -11,8 +11,7 @@ import ipywidgets as widgets
 from IPython.display import display
 import pandas as pd
 
-get_ipython().run_line_magic('load_ext', 'autoreload')
-get_ipython().run_line_magic('autoreload', '2')
+
 
 
 # ## GBM Simulations
