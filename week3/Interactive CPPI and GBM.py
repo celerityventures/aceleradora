@@ -10,7 +10,6 @@
 import ipywidgets as widgets
 from IPython.display import display
 import pandas as pd
-import edhec_risk_kit_all as erk
 
 get_ipython().run_line_magic('load_ext', 'autoreload')
 get_ipython().run_line_magic('autoreload', '2')
